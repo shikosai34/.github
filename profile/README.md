@@ -1,11 +1,5 @@
 # 第34回 茨香祭情報部
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,ts,nextjs,vite,tailwind,astro,postgres,redis,cloudflare,docker,githubactions" />
-  </a>
-</p>
-
 ## Contributors 🛠️
 
 | 12r9p | Juna1013 | fukayatti |
@@ -14,6 +8,12 @@
 | `#Owner` `#Designer`<br>`#Backend` | `#Frontend` | `#Backend`<br>`#ML-Engineer` |
 
 ## Technology Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,ts,nextjs,vite,tailwind,astro,postgres,redis,cloudflare,docker,githubactions" />
+  </a>
+</p>
 
 ### Front
 - next.js
