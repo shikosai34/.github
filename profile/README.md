@@ -6,8 +6,6 @@
   </a>
 </p>
 
-## Contributors
-
 ## Contributors 🛠️
 
 | 12r9p | Juna1013 | fukayatti |
