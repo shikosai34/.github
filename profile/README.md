@@ -6,13 +6,9 @@
   </a>
 </p>
 
-- server
-- Bun
-- Hono
-- TypeScript
-- BetterAuth
-- zod
-- front
+## Technology Stack
+
+### front
 - next.js
 - vite
 - tailwindcss
@@ -20,12 +16,21 @@
 - tunstack router
 - vite plugin pwa
 - astro
-- db
+
+### server
+- Bun
+- Hono
+- TypeScript
+- BetterAuth
+- zod
+
+### Database
 - postgresql
 - drizzle
 - redis
 - cloudflare r2
-- infla
+
+### Infrastructure
 - docker compose
 - cloudflare tonnel
 - cloudflare pages
