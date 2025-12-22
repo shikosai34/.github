@@ -1,5 +1,11 @@
 # 第34回 茨香祭情報部
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,ts,nextjs,vite,tailwind,astro,postgres,redis,cloudflare,docker,githubactions" />
+  </a>
+</p>
+
 - server
 - Bun
 - Hono
