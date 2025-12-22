@@ -8,11 +8,12 @@
 
 ## Contributors
 
-|                                           shio                                           |                                         st20089ki                                          |                                           ituki                                            |
-| :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/dino3616.png" width="160px">](https://github.com/dino3616) | [<img src="https://github.com/st20089ki.png" width="160px">](https://github.com/st20089ki) | [<img src="https://github.com/ituki0426.png" width="160px">](https://github.com/ituki0426) |
-|                   `#repository-owner` `#designer` `#backend-engineer`                    |                                    `#frontend-engineer`                                    |                             `#backend-engineer` `#ml-engineer`                             |
+## Contributors 🛠️
 
+| shio | st20089ki | ituki |
+| :---: | :---: | :---: |
+| [<img src="https://github.com/dino3616.png" width="160px">](https://github.com/dino3616) | [<img src="https://github.com/st20089ki.png" width="160px">](https://github.com/st20089ki) | [<img src="https://github.com/ituki0426.png" width="160px">](https://github.com/ituki0426) |
+| `#Owner` `#Designer`<br>`#Backend` | `#Frontend` | `#Backend`<br>`#ML-Engineer` |
 
 ## Technology Stack
 
