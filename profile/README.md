@@ -36,3 +36,28 @@
 ### Database
 
 - **PostgreSQL**: 高い信頼性と拡張性を誇るオープンソースの RDBMS
+- **Drizzle ORM**: TypeScript との親和性が高く、軽量で型安全な ORM
+- **Redis**: 低レイテンシなデータアクセスを実現するインメモリ KVS
+- **Cloudflare R2**: エグレス料金無料の S3 互換オブジェクトストレージ
+
+### Infrastructure & Tools
+
+- **Docker Compose**: 複数コンテナのアプリケーションを定義・実行するツール
+- **Cloudflare Tunnel**: 公開ポートなしでローカル環境を安全に外部公開
+- **Cloudflare Pages**: フロントエンドアプリの高速なホスティングプラットフォーム
+- **Turborepo**: モノレポ構成のビルドを高速化するビルドシステム
+- **GitHub Actions**: CI/CD（ビルド・テスト・デプロイ）の自動化
+- **Watchtower**: Docker コンテナのイメージ更新を検知して自動アップデート
+
+### Signage & Streaming
+
+- **OBS Studio**: 高機能なビデオ録画・生放送配信ソフトウェア
+- **WebRTC**: ブラウザ間でリアルタイムの音声・ビデオ通信を行う技術
+- **MediaMTX**: 各種プロトコルに対応した高機能なメディアサーバー
+- **obs-websocket-js**: プログラム経由で OBS を外部操作するためのライブラリ
+- **NDI**: ネットワーク経由で高品質・低遅延なビデオ伝送を行う規格
+
+## Setup with Docker Compose
+
+## Design
+- Figma
