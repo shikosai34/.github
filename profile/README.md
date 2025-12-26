@@ -15,7 +15,8 @@
   </a>
 </p>
 
-### Frontend
+<details>
+<summary><strong>### Frontend</strong></summary>
 
 - **Next.js**: 高度なレンダリング（SSR/ISR）を可能にする React フレームワーク
 - **Vite**: 高速なビルドと開発体験を提供する次世代フロントエンドツール
@@ -24,6 +25,8 @@
 - **TanStack Router**: 型安全で高度なルーティングを可能にするライブラリ
 - **Vite Plugin PWA**: Vite プロジェクトに PWA 機能（オフライン対応等）を簡単導入
 - **Astro**: 高速なコンテンツ配信に特化したモダンなアイランドアーキテクチャ
+
+</details>
 
 ### Backend
 
