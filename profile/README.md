@@ -2,10 +2,14 @@
 
 ## Contributors 🛠️
 
+<p align="center">
+
 | 12r9p | Juna1013 | fukayatti |
 | :---: | :---: | :---: |
 | [<img src="https://github.com/12r9p/12r9p/blob/main/icon.png" width="160px">](https://github.com/12r9p/12r9p/blob/main/icon.png) | [<img src="https://github.com/Juna1013/Juna1013/blob/main/profile.png" width="160px">](https://github.com/Juna1013/Juna1013/blob/main/profile.png) | [<img src="https://github.com/fukayatti/fukayatti/blob/main/profile.png" width="160px">](https://github.com/fukayatti/fukayatti/blob/main/profile.png) |
 | `#Owner` `#Designer`<br>`#Backend` | `#Frontend` | `#Backend`<br>`#ML-Engineer` |
+
+</p>
 
 ## Tech Stack 🛠️
 
