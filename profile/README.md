@@ -82,7 +82,5 @@
 
 </details>
 
-## Setup with Docker Compose
-
 ## Design
 - Figma
